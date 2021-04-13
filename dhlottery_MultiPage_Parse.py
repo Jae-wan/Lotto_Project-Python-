@@ -27,4 +27,4 @@ print(data)
 ## 가장 중요한거
 # https://wpscholar.com/blog/view-form-data-in-chrome/
 # Form Data 확인 후 쿼리에서 https://www.dhlottery.co.kr/gameResult.do?method=byWin&drwNo=944
-# 하면 944 페이지로 이동됨
+# 하면 944 페이지로 이동됨.
